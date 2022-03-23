@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vatsalvarshney
 - 👀 I’m interested in Web Development and Competitive Coding
-- 🌱 I’m currently learning HTML, CSS, Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python
 
 <!---
 vatsalvarshney/vatsalvarshney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
